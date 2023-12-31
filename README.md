@@ -1,3 +1,5 @@
+### FILEPATH: Frischifrisch/README.md
+
 # Project Name: *Leben, irgendwie*
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -26,7 +28,7 @@ Instructions on how to install and run your project. 🛠️
 
 Instructions on how to use your project. 📖
 
-***Du bist gut, lieber gar nicht benutzen. Hab au gehört, sowas wurde abgeschafft. Die Würde des Menschen ist unantastbar ... nur sag bescheid, wenn du meine zufällig siehst, sie kann gerne wieder nach Hause kommen. Hab sie immer noch lieb.***
+***Umsichtig und mit bedacht, und auf die Verschleißerscheinungen achten. Womöglich findest du undokumentierte Workarounds*** ¯\\\_(ツ)\_/¯
 
 ## Contributing
 
