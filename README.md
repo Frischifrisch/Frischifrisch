@@ -1,5 +1,7 @@
 ### FILEPATH: Frischifrisch/README.md
 
+![Keine Knete](./f7d4bbd9-5580-4175-9a25-2b0a136642cd-833c05b4-95e2-434e-8c07-7c7fa42477a6-v1.png)
+
 # Project Name: *Leben, irgendwie*
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
